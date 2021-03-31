@@ -1,0 +1,4 @@
+pyautogui
+webbrowser
+time
+pandas
